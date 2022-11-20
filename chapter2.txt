@@ -1,3 +1,5 @@
 sec chapter .demo
 
 at new-branch1
+
+This is the first change from the newly forked copy of story from github remote repo.
